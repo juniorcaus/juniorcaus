@@ -2,7 +2,7 @@
 
 - 🔭 Sou desenvolvedor Front End e estou utilizando e em constante aprendizado com as melhores tecnologias para o desenvolvimento web e mobile. Tenho utilizados em meus projetos JavaScript, ReactJS, React Native, Bootstrap, Git, Android Studio, Expo, Html e Css
 
-Gosto muito de empreendedorismo e da área de tecnologia, e também sou Bacharel em Relações Internacionais na qual facilita o desenvolvimento das Soft Skills que possuo na forma que lido com os ambientes de aprendizado e trabalho na qual convivo.  
+- Gosto muito de empreendedorismo e da área de tecnologia, e também sou Bacharel em Relações Internacionais na qual facilita o desenvolvimento das Soft Skills que possuo na forma que lido com os ambientes de aprendizado e trabalho na qual convivo.  
 
 React Native | ReactJS| Javascript | Bootstrap | Figma |Android Studio| Git | Github
 
