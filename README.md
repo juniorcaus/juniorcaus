@@ -2,9 +2,9 @@
 
 - 🔭 Sou desenvolvedor de Sofware e estudante de Sistemas de Informação, e estou utilizando e em constante aprendizado com as melhores tecnologias para o desenvolvimento web e mobile. Tenho utilizados em meus projetos JavaScript, ReactJS, React Native, Bootstrap, Git, Android Studio, Expo, Html e Css.
 
-Também estudo tecnologias do Back end, e estou usando em meus estudos e projetos pessoais, C#, .NET, ASP.NET, APIs, SQL, MYSQL, entre outros.
+- Também estudo tecnologias do Back end, e estou usando em meus estudos e projetos pessoais, C#, .NET, ASP.NET, APIs, SQL, MYSQL, entre outros.
 
-Gosto muito de empreendedorismo e da área de tecnologia, e também sou Bacharel em Relações Internacionais na qual facilita o desenvolvimento das Soft Skills que possuo na forma que lido com os ambientes de aprendizado e trabalho na qual convivo. 
+- Gosto muito de empreendedorismo e da área de tecnologia, e também sou Bacharel em Relações Internacionais na qual facilita o desenvolvimento das Soft Skills que possuo na forma que lido com os ambientes de aprendizado e trabalho na qual convivo. 
 
 
  ReactJS | C# | .NET | React Native | Javascript | Boostrap| Html | Css | Figma |Android Studio| Git | Github
