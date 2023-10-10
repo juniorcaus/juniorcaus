@@ -1,13 +1,15 @@
 ### Olá! Me chamo Milton Caus 
 
-- 🔭 Sou desenvolvedor de Sofware e estudante de Sistemas de Informação, e estou utilizando e em constante aprendizado com as melhores tecnologias para o desenvolvimento web e mobile. Tenho utilizados em meus projetos JavaScript, ReactJS, React Native, Bootstrap, Git, Android Studio, Expo, Html e Css.
+Sou Desenvolvedor full stack e estudante de Sistemas de Informação. Meu foco está em aprimorar constantemente minhas habilidades e conhecimentos nas melhores tecnologias para o desenvolvimento de sofware.
 
-- Também estudo tecnologias do Back end, e estou usando em meus estudos e projetos pessoais, C#, .NET, ASP.NET, APIs, SQL, MYSQL, entre outros.
+Tenho utilizado em meus projetos, JavaScript, ReactJS, React Native, Bootstrap, HTML e CSS. Estou comprometido com práticas de versionamento e colaboração eficazes, usando ferramentas como Git. Além disso, sou familiarizado com Android Studio e Expo para o desenvolvimento mobile.
 
-- Gosto muito de empreendedorismo e da área de tecnologia, e também sou Bacharel em Relações Internacionais na qual facilita o desenvolvimento das Soft Skills que possuo na forma que lido com os ambientes de aprendizado e trabalho na qual convivo. 
+No que diz respeito ao back-end, minha experiência inclui tecnologias como C#, .NET, ASP.NET, e APIs. Também utilizo bancos de dados, SQL e MySQL, Postgre. Além disso, tenho experiência em desenvolvimento com Delphi.
 
+Além da tecnologia, tenho interesse pelo empreendedorismo. Minha formação em Relações Internacionais também contribui para o desenvolvimento de minhas habilidades interpessoais, o que facilita minha adaptação a diferentes ambientes de aprendizado e trabalho.
 
- ReactJS | C# | .NET | React Native | Javascript | Boostrap| Html | Css | Figma |Android Studio| Git | Github
+ C# | .NET | DELPHI | ReactJS | React Native | Javascript | Banco de Dados | Git| GitHub| Figma| Pascal| Html | Css
+
 <div align="center">
   <a href="https://github.com/juniorcaus">
   
